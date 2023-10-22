@@ -1,0 +1,23 @@
+* {
+    font-family: 'Itim', cursive;
+    color: rgb(252, 0, 0);
+}
+body{
+    background-image: url(images/new1.jfif);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(252, 0, 0);
+}
+#p-s{
+    color:rgb(252, 0, 0);
+}
+#btn-one{
+    background-color: rgb(252, 0, 0);
+    color: rgb(0, 0, 0);
+}
